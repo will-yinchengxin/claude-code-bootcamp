@@ -1,6 +1,7 @@
 # 7 天精通学习 Claude Code 
 
-<div align="center">
+
+
 ![Claude Code](https://img.shields.io/badge/Claude-Code-blue?style=for-the-badge)
 ![7 Days](https://img.shields.io/badge/Learning-7%20Days-green?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge)
