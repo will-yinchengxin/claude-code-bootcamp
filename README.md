@@ -37,9 +37,6 @@ Claude Code 训练营是一个系统化的学习路径，专为希望深度掌�
 # 克隆项目
 git clone https://github.com/will-yinchengxin/claude-code-bootcamp.git
 cd claude-code-bootcamp
-
-# 开始 Day 1
-cd curriculum/day-01-basics
 ```
 
 ## 内容大纲
